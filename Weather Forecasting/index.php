@@ -59,7 +59,6 @@
   </div>
 </nav>
 
-
 <div class="content">
   <h1>About Weather</h1>
   <q>Nature is so powerful, so strong. Capturing its essence is not easy - your work becomes a dance with light and the weather. It takes you to a place within yourself.-by Annie Leibovitz</q>
